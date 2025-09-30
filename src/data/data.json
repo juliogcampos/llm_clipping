@@ -1,0 +1,50 @@
+[
+    {
+        "id": 1,
+        "title": "Por que os modelos de linguagem alucinam?",
+        "source": "OpenAI",
+        "data": "05/09/2025",
+        "summary": "A OpenAI tem a missão de criar sistemas de IA mais úteis e confiáveis. Por mais que os modelos de linguagem venham melhorando, ainda há um impasse que é difícil de eliminar totalmente: as alucinações. Ou seja, aqueles momentos em que um modelo gera com confiança uma resposta que não é verdadeira. Nosso novo artigo de investigação defende que os modelos de linguagem alucinam porque os treinamentos e avaliações tradicionais recompensam adivinhações e não deixam espaço para que se reconheça incertezas.",
+        "url": "https://openai.com/pt-BR/index/why-language-models-hallucinate/"
+    },
+    {
+        "id": 2,
+        "title": "Por que a Inteligência Artificial mente quando diz que “está pensando” – e por que isso importa",
+        "source": "The Conversation",
+        "data": "20/06/2025",
+        "summary": "Os avanços recentes em Inteligência Artificial (IA) criaram uma ilusão convincente. Sistemas como ChatGPT, Copilot ou Gemini nos seduzem pela aparente capacidade de pensar. Respondem a perguntas complexas, produzem textos articulados e até parecem refletir sobre suas próprias escolhas. Mas não se engane: essas máquinas não possuem raciocínio lógico, compreensão de conceitos nem consciência. Na prática, lidamos com sistemas que reconhecem padrões em nossa linguagem, sem de fato compreenderem o que dizem. E isso tem implicações importantes em como usamos, avaliamos e regulamos essas tecnologias.",
+        "url": "https://theconversation.com/por-que-a-inteligencia-artificial-mente-quando-diz-que-esta-pensando-e-por-que-isso-importa-258988"
+    },
+    {
+        "id": 3,
+        "title": "Tracing the thoughts of a large language model",
+        "source": "Anthropic",
+        "data": "27/03/2025",
+        "summary": "Language models like Claude aren't programmed directly by humans—instead, they‘re trained on large amounts of data. During that training process, they learn their own strategies to solve problems. These strategies are encoded in the billions of computations a model performs for every word it writes. They arrive inscrutable to us, the model’s developers. This means that we don’t understand how models do most of the things they do.",
+        "url": "https://www.anthropic.com/research/tracing-thoughts-language-model"
+    },
+    {
+        "id": 4,
+        "title": "Reasoning models don't always say what they think",
+        "source": "Anthropic",
+        "data": "03/04/2025",
+        "summary": "Since late last year, “reasoning models” have been everywhere. These are AI models—such as Claude 3.7 Sonnet—that show their working: as well as their eventual answer, you can read the (often fascinating and convoluted) way that they got there, in what’s called their “Chain-of-Thought”.",
+        "url": "https://www.anthropic.com/research/reasoning-models-dont-say-think"
+    },
+    {
+        "id": 5,
+        "title": "[Literature Review] Beyond Semantics: The Unreasonable Effectiveness of Reasonless Intermediate Tokens",
+        "source": "Moonlight",
+        "data": "18/05/2025",
+        "summary": "This paper critically examines the common interpretation that the effectiveness of intermediate tokens, often referred to as 'Chains of Thought' (CoT) or reasoning traces, in large reasoning models stems from their semantic meaningfulness and reflection of algorithmic reasoning processes. The authors challenge the anthropomorphism of such outputs, arguing that performance improvements observed when training models to generate intermediate tokens may not be causally linked to the correctness or semantic validity of these tokens.",
+        "url": "https://www.themoonlight.io/en/review/beyond-semantics-the-unreasonable-effectiveness-of-reasonless-intermediate-tokens"
+    },
+    {
+        "id": 6,
+        "title": "Wait a minute! Researchers say AI's 'chains of thought' are not signs of human-like reasoning",
+        "source": "The Decoder",
+        "data": "29/05/2025",
+        "summary": "A research team from Arizona State University warns against interpreting intermediate steps in language models as human thought processes. The authors see this as a dangerous misconception with far-reaching consequences for research and application.",
+        "url": "https://the-decoder.com/wait-a-minute-researchers-say-ais-chains-of-thought-are-not-signs-of-human-like-reasoning/"
+    }
+]
