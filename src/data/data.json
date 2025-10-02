@@ -1,50 +1,121 @@
 [
     {
-        "id": 1,
+        "title": "",
+        "source": "",
+        "date": "",
+        "summary": "",
+        "url": ""
+    },
+    {
+        "date": "2025-09-05",
         "title": "Por que os modelos de linguagem alucinam?",
         "source": "OpenAI",
-        "data": "05/09/2025",
         "summary": "A OpenAI tem a missão de criar sistemas de IA mais úteis e confiáveis. Por mais que os modelos de linguagem venham melhorando, ainda há um impasse que é difícil de eliminar totalmente: as alucinações. Ou seja, aqueles momentos em que um modelo gera com confiança uma resposta que não é verdadeira. Nosso novo artigo de investigação defende que os modelos de linguagem alucinam porque os treinamentos e avaliações tradicionais recompensam adivinhações e não deixam espaço para que se reconheça incertezas.",
-        "url": "https://openai.com/pt-BR/index/why-language-models-hallucinate/"
+        "url": "https://openai.com/pt-BR/index/why-language-models-hallucinate/",
+        "language": "pt"
     },
     {
-        "id": 2,
+        "date": "2025-08-14",
+        "title": "Introducing Gemma 3 270M: The compact model for hyper-efficient AI",
+        "source": "Google",
+        "summary": "Today, we're adding a new, highly specialized tool to the Gemma 3 toolkit: Gemma 3 270M, a compact, 270-million parameter model designed from the ground up for task-specific fine-tuning with strong instruction-following and text structuring capabilities already trained in.",
+        "url": "https://developers.googleblog.com/en/introducing-gemma-3-270m/",
+        "language": "en"
+    },
+    {
+        "date": "2025-08-07",
+        "title": "Chegou o GPT-5",
+        "source": "OpenAI",
+        "summary": "O GPT‑5 é mais inteligente em todos os parâmetros, oferecendo respostas mais úteis em matemática, ciências, finanças, direito e muito mais. É como ter uma equipe de especialistas à disposição para tudo que você quer saber.",
+        "url": "https://openai.com/pt-BR/gpt-5/",
+        "language": "pt"
+    },
+    {
+        "date": "2025-07-22",
+        "title": "Context Engineering: 2025’s #1 Skill in AI",
+        "source": "Decoding AI",
+        "summary": "Let’s get one thing straight: if you’re still only talking about 'prompt engineering,' you’re behind the curve. In the early days of Large Language Models (LLMs), crafting the perfect prompt was the name of the game. For simple chatbots in 2022, it was enough. Then came Retrieval-Augmented Generation (RAG) in 2023, where we started feeding models domain-specific knowledge. Now, we have tool-using, memory-enabled agents that need to build relationships and maintain state over time. The single-interaction focus of prompt engineering just doesn’t cut it anymore.",
+        "url": "https://decodingml.substack.com/p/context-engineering-2025s-1-skill",
+        "language": "en"
+    },
+    {
+        "date": "2025-07-09",
+        "title": "Grok, IA de Musk, exalta Hitler em postagens e apaga conteúdo após denúncias",
+        "source": "G1",
+        "summary": "O Grok, inteligência artificial criada por Elon Musk e integrada ao X, publicou nesta terça-feira (8) conteúdos antissemitas e de exaltação a Adolf Hitler. As publicações foram apagadas pela xAI, empresa responsável pela IA do Musk, após reclamações de usuários do X e da Liga Antidifamação, uma ONG judaica com sede nos EUA, informou a agência de notícias Reuters.",
+        "url": "https://g1.globo.com/tecnologia/noticia/2025/07/09/grok-ia-de-musk-exalta-hitler-em-postagens-e-apaga-conteudo-apos-denuncias.ghtml",
+        "language": "pt"
+    },
+    {
+        "date": "2025-07-02",
+        "title": "Context Engineering",
+        "source": "LangChain",
+        "summary": "As Andrej Karpathy puts it, LLMs are like a new kind of operating system. The LLM is like the CPU and its context window is like the RAM, serving as the model’s working memory. Just like RAM, the LLM context window has limited capacity to handle various sources of context. And just as an operating system curates what fits into a CPU’s RAM, we can think about “context engineering” playing a similar role.",
+        "url": "https://blog.langchain.com/context-engineering-for-agents/",
+        "language": "en"
+    },
+    {
+        "date": "2025-06-20",
         "title": "Por que a Inteligência Artificial mente quando diz que “está pensando” – e por que isso importa",
         "source": "The Conversation",
-        "data": "20/06/2025",
         "summary": "Os avanços recentes em Inteligência Artificial (IA) criaram uma ilusão convincente. Sistemas como ChatGPT, Copilot ou Gemini nos seduzem pela aparente capacidade de pensar. Respondem a perguntas complexas, produzem textos articulados e até parecem refletir sobre suas próprias escolhas. Mas não se engane: essas máquinas não possuem raciocínio lógico, compreensão de conceitos nem consciência. Na prática, lidamos com sistemas que reconhecem padrões em nossa linguagem, sem de fato compreenderem o que dizem. E isso tem implicações importantes em como usamos, avaliamos e regulamos essas tecnologias.",
-        "url": "https://theconversation.com/por-que-a-inteligencia-artificial-mente-quando-diz-que-esta-pensando-e-por-que-isso-importa-258988"
+        "url": "https://theconversation.com/por-que-a-inteligencia-artificial-mente-quando-diz-que-esta-pensando-e-por-que-isso-importa-258988",
+        "language": "pt"
     },
     {
-        "id": 3,
-        "title": "Tracing the thoughts of a large language model",
-        "source": "Anthropic",
-        "data": "27/03/2025",
-        "summary": "Language models like Claude aren't programmed directly by humans—instead, they‘re trained on large amounts of data. During that training process, they learn their own strategies to solve problems. These strategies are encoded in the billions of computations a model performs for every word it writes. They arrive inscrutable to us, the model’s developers. This means that we don’t understand how models do most of the things they do.",
-        "url": "https://www.anthropic.com/research/tracing-thoughts-language-model"
+        "date": "2025-06-08",
+        "title": "Novos vídeos hiper-realistas feitos com inteligência artificial criam desafio de distinguir o que é real",
+        "source": "G1",
+        "summary": "Uma nova ferramenta de inteligência artificial do Google está mudando a forma como vídeos são criados. Chamada de Veo 3, a tecnologia permite gerar cenas realistas com personagens, trilhas sonoras e até sotaques, tudo a partir de comandos de texto.",
+        "url": "https://g1.globo.com/fantastico/noticia/2025/06/08/novos-videos-hiper-realistas-feitos-com-inteligencia-artificial-criam-desafio-de-distinguir-o-que-e-real.ghtml",
+        "language": "pt"
     },
     {
-        "id": 4,
-        "title": "Reasoning models don't always say what they think",
-        "source": "Anthropic",
-        "data": "03/04/2025",
-        "summary": "Since late last year, “reasoning models” have been everywhere. These are AI models—such as Claude 3.7 Sonnet—that show their working: as well as their eventual answer, you can read the (often fascinating and convoluted) way that they got there, in what’s called their “Chain-of-Thought”.",
-        "url": "https://www.anthropic.com/research/reasoning-models-dont-say-think"
+        "date": "2025-06-03",
+        "title": "Empresa prometia IA revolucionária, mas eram 700 humanos trabalhando",
+        "source": "Olhar Digital",
+        "summary": "A inteligência artificial está na moda. Por conta disso, diversas startups têm investido de forma pesada na tecnologia para os mais diversos propósitos. No entanto, nem todas são, de fato, o que dizem ou parecem ser. A Builder.ai, por exemplo, prometia revolucionar a criação de aplicativos com IA. O problema é que seu sistema de redes neurais era, na verdade, composto por uma equipe de 700 engenheiros humanos. A revelação da fraude fez com que a companhia decretasse falência.",
+        "url": "https://olhardigital.com.br/2025/06/03/pro/empresa-prometia-ia-revolucionaria-mas-eram-700-humanos-trabalhando/",
+        "language": "pt"
     },
     {
-        "id": 5,
-        "title": "[Literature Review] Beyond Semantics: The Unreasonable Effectiveness of Reasonless Intermediate Tokens",
-        "source": "Moonlight",
-        "data": "18/05/2025",
-        "summary": "This paper critically examines the common interpretation that the effectiveness of intermediate tokens, often referred to as 'Chains of Thought' (CoT) or reasoning traces, in large reasoning models stems from their semantic meaningfulness and reflection of algorithmic reasoning processes. The authors challenge the anthropomorphism of such outputs, arguing that performance improvements observed when training models to generate intermediate tokens may not be causally linked to the correctness or semantic validity of these tokens.",
-        "url": "https://www.themoonlight.io/en/review/beyond-semantics-the-unreasonable-effectiveness-of-reasonless-intermediate-tokens"
-    },
-    {
-        "id": 6,
+        "date": "2025-05-29",
         "title": "Wait a minute! Researchers say AI's 'chains of thought' are not signs of human-like reasoning",
         "source": "The Decoder",
-        "data": "29/05/2025",
         "summary": "A research team from Arizona State University warns against interpreting intermediate steps in language models as human thought processes. The authors see this as a dangerous misconception with far-reaching consequences for research and application.",
-        "url": "https://the-decoder.com/wait-a-minute-researchers-say-ais-chains-of-thought-are-not-signs-of-human-like-reasoning/"
+        "url": "https://the-decoder.com/wait-a-minute-researchers-say-ais-chains-of-thought-are-not-signs-of-human-like-reasoning/",
+        "language": "en"
+    },
+    {
+        "date": "2025-05-18",
+        "title": "[Literature Review] Beyond Semantics: The Unreasonable Effectiveness of Reasonless Intermediate Tokens",
+        "source": "Moonlight",
+        "summary": "This paper critically examines the common interpretation that the effectiveness of intermediate tokens, often referred to as 'Chains of Thought' (CoT) or reasoning traces, in large reasoning models stems from their semantic meaningfulness and reflection of algorithmic reasoning processes. The authors challenge the anthropomorphism of such outputs, arguing that performance improvements observed when training models to generate intermediate tokens may not be causally linked to the correctness or semantic validity of these tokens.",
+        "url": "https://www.themoonlight.io/en/review/beyond-semantics-the-unreasonable-effectiveness-of-reasonless-intermediate-tokens",
+        "language": "en"
+    },
+    {
+        "date": "2025-04-05",
+        "title": "The Llama 4 herd: The beginning of a new era of natively multimodal AI innovation",
+        "source": "Meta",
+        "summary": "As more people continue to use artificial intelligence to enhance their daily lives, it’s important that the leading models and systems are openly available so everyone can build the future of personalized experiences. Today, we’re excited to announce the most advanced suite of models that support the entire Llama ecosystem. We’re introducing Llama 4 Scout and Llama 4 Maverick, the first open-weight natively multimodal models with unprecedented context length support and our first built using a mixture-of-experts (MoE) architecture. We’re also previewing Llama 4 Behemoth, one of the smartest LLMs in the world and our most powerful yet to serve as a teacher for our new models.",
+        "url": "https://ai.meta.com/blog/llama-4-multimodal-intelligence/",
+        "language": "en"
+    },
+    {
+        "date": "2025-04-03",
+        "title": "Reasoning models don't always say what they think",
+        "source": "Anthropic",
+        "summary": "Since late last year, “reasoning models” have been everywhere. These are AI models—such as Claude 3.7 Sonnet—that show their working: as well as their eventual answer, you can read the (often fascinating and convoluted) way that they got there, in what’s called their “Chain-of-Thought”.",
+        "url": "https://www.anthropic.com/research/reasoning-models-dont-say-think",
+        "language": "en"
+    },
+    {
+        "date": "2025-03-27",
+        "title": "Tracing the thoughts of a large language model",
+        "source": "Anthropic",
+        "summary": "Language models like Claude aren't programmed directly by humans—instead, they‘re trained on large amounts of date. During that training process, they learn their own strategies to solve problems. These strategies are encoded in the billions of computations a model performs for every word it writes. They arrive inscrutable to us, the model’s developers. This means that we don’t understand how models do most of the things they do.",
+        "url": "https://www.anthropic.com/research/tracing-thoughts-language-model",
+        "language": "en"
     }
 ]
