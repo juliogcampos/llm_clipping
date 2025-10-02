@@ -4,7 +4,8 @@
         "source": "",
         "date": "",
         "summary": "",
-        "url": ""
+        "url": "",
+        "language": ""
     },
     {
         "date": "2025-09-05",
@@ -116,6 +117,30 @@
         "source": "Anthropic",
         "summary": "Language models like Claude aren't programmed directly by humans—instead, they‘re trained on large amounts of date. During that training process, they learn their own strategies to solve problems. These strategies are encoded in the billions of computations a model performs for every word it writes. They arrive inscrutable to us, the model’s developers. This means that we don’t understand how models do most of the things they do.",
         "url": "https://www.anthropic.com/research/tracing-thoughts-language-model",
+        "language": "en"
+    },
+    {
+        "title": "What is DeepSeek and why is it disrupting the AI sector?",
+        "source": "Reuters",
+        "date": "2025-01-28",
+        "summary": "Chinese startup DeepSeek's launch of its latest AI models, which it says are on a par or better than industry-leading models in the United States at a fraction of the cost, is threatening to upset the technology world order. The company has attracted attention in global AI circles after writing in a paper last month that the training of DeepSeek-V3 required less than $6 million worth of computing power from Nvidia H800 chips.",
+        "url": "https://www.reuters.com/technology/artificial-intelligence/what-is-deepseek-why-is-it-disrupting-ai-sector-2025-01-27/",
+        "language": "en"
+    },
+    {
+        "title": "DeepSeek-R1 Release",
+        "source": "DeepSeek",
+        "date": "2025-01-20",
+        "summary": "We introduce our first-generation reasoning models, DeepSeek-R1-Zero and DeepSeek-R1. DeepSeek-R1-Zero, a model trained via large-scale reinforcement learning (RL) without supervised fine-tuning (SFT) as a preliminary step, demonstrates remarkable reasoning capabilities. Through RL, DeepSeek-R1-Zero naturally emerges with numerous powerful and intriguing reasoning behaviors. However, it encounters challenges such as poor readability, and language mixing. To address these issues and further enhance reasoning performance, we introduce DeepSeek-R1, which incorporates multi-stage training and cold-start data before RL. DeepSeekR1 achieves performance comparable to OpenAI-o1-1217 on reasoning tasks. To support the research community, we open-source DeepSeek-R1-Zero, DeepSeek-R1, and six dense models (1.5B, 7B, 8B, 14B, 32B, 70B) distilled from DeepSeek-R1 based on Qwen and Llama.",
+        "url": "https://api-docs.deepseek.com/news/news250120",
+        "language": "en"
+    },
+    {
+        "title": "Introducing DeepSeek-V3",
+        "source": "DeepSeek",
+        "date": "2024-12-26",
+        "summary": "We present DeepSeek-V3, a strong Mixture-of-Experts (MoE) language model with 671B total parameters with 37B activated for each token. To achieve efficient inference and cost-effective training, DeepSeek-V3 adopts Multi-head Latent Attention (MLA) and DeepSeekMoE architectures, which were thoroughly validated in DeepSeek-V2. Furthermore, DeepSeek-V3 pioneers an auxiliary-loss-free strategy for load balancing and sets a multi-token prediction training objective for stronger performance. We pre-train DeepSeek-V3 on 14.8 trillion diverse and high-quality tokens, followed by Supervised Fine-Tuning and Reinforcement Learning stages to fully harness its capabilities. Comprehensive evaluations reveal that DeepSeek-V3 outperforms other open-source models and achieves performance comparable to leading closed-source models. Despite its excellent performance, DeepSeek-V3 requires only 2.788M H800 GPU hours for its full training. In addition, its training process is remarkably stable. Throughout the entire training process, we did not experience any irrecoverable loss spikes or perform any rollbacks.",
+        "url": "https://api-docs.deepseek.com/news/news1226",
         "language": "en"
     }
 ]
