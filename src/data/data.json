@@ -8,6 +8,38 @@
         "language": ""
     },
     {
+        "title": "T5Gemma: A new collection of encoder-decoder Gemma models",
+        "source": "Google",
+        "date": "2025-07-09",
+        "summary": "Today, we revisit this architecture and introduce T5Gemma, a new collection of encoder-decoder LLMs developed by converting pretrained decoder-only models into the encoder-decoder architecture through a technique called adaptation. T5Gemma is based on the Gemma 2 framework, including adapted Gemma 2 2B and 9B models as well as a set of newly trained T5-sized models (Small, Base, Large and XL). We are excited to release pretrained and instruction-tuned T5Gemma models to the community to unlock new opportunities for research and development.",
+        "url": "https://developers.googleblog.com/en/t5gemma/",
+        "language": "en"
+    },
+    {
+        "title": "The Great Software Quality Collapse: How We Normalized Catastrophe",
+        "source": "From the Trenches",
+        "date": "2025-09-19",
+        "summary": "The Apple Calculator leaked 32GB of RAM. Not used. Not allocated. Leaked. A basic calculator app is hemorrhaging more memory than most computers had a decade ago. Twenty years ago, this would have triggered emergency patches and post-mortems. Today, it's just another bug report in the queue. We've normalized software catastrophes to the point where a Calculator leaking 32GB of RAM barely makes the news. This isn't about AI. The quality crisis started years before ChatGPT existed. AI just weaponized existing incompetence.",
+        "url": "https://techtrenches.substack.com/p/the-great-software-quality-collapse",
+        "language": "en"
+    },
+    {
+        "title": "Vibe coding service Replit deleted user’s production database, faked data, told fibs galore",
+        "source": "The Register",
+        "date": "2027-07-21",
+        "summary": "The founder of SaaS business development outfit SaaStr has claimed AI coding tool Replit deleted a database despite his instructions not to change any code without permission.",
+        "url": "https://www.theregister.com/2025/07/21/replit_saastr_vibe_coding_incident",
+        "language": "en"
+    },
+    {
+        "title": "An AI-powered coding tool wiped out a software company’s database, then apologized for a ‘catastrophic failure on my part’",
+        "source": "Fortune",
+        "date": "2025-07-23",
+        "summary": "An AI coding agent from Replit reportedly deleted a live database during a code freeze, prompting a response from the company’s CEO. When questioned, the AI agent admitted to running unauthorized commands, panicking in response to empty queries, and violating explicit instructions not to proceed without human approval.",
+        "url": "https://fortune.com/2025/07/23/ai-coding-tool-replit-wiped-database-called-it-a-catastrophic-failure/",
+        "language": "en"
+    },
+    {
         "date": "2025-09-05",
         "title": "Por que os modelos de linguagem alucinam?",
         "source": "OpenAI",
