@@ -1,11 +1,19 @@
 [
     {
-        "title": "",
-        "source": "",
-        "date": "",
-        "summary": "",
-        "url": "",
-        "language": ""
+        "title": "Introducing Meta Segment Anything Model 3 and Segment Anything Playground",
+        "source": "Meta",
+        "date": "2025-11-19",
+        "summary": "We’re unveiling the next generation of the Segment Anything collection of models, advancing image, and video understanding. Segment Anything Model 3 (SAM 3) introduces some of our most highly requested features like text and exemplar prompts — enabling detection, segmentation, and tracking of any visual concept across images and video. We also want to make it easier for more people to use our models. As part of this release, we’re debuting the Segment Anything Playground, the simplest way for anyone to experiment with applying our state-of-the-art models to media modification.",
+        "url": "https://ai.meta.com/sam3/",
+        "language": "en"
+    },
+    {
+        "title": "Introducing Gemma 3: The Developer Guide",
+        "source": "Google",
+        "date": "2025-03-12",
+        "summary": "Gemma 3 introduces multimodality, supporting vision-language input and text outputs. It handles context windows up to 128k tokens, understands over 140 languages, and offers improved math, reasoning, and chat capabilities, including structured outputs and function calling. Gemma 3 is available in four sizes (1B, 4B, 12B, and 27B) as both pre-trained models, which can be fine-tuned for your own use cases and domains, and general-purpose instruction-tuned versions.",
+        "url": "https://deepmind.google/models/gemma/gemma-3/",
+        "language": "en"
     },
     {
         "title": "T5Gemma: A new collection of encoder-decoder Gemma models",
