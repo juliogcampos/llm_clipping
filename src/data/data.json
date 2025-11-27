@@ -1,10 +1,26 @@
 [
     {
+        "title": "",
+        "source": "",
+        "date": "",
+        "summary": "",
+        "url": "",
+        "language": ""
+    },
+    {
         "title": "Introducing Meta Segment Anything Model 3 and Segment Anything Playground",
         "source": "Meta",
         "date": "2025-11-19",
         "summary": "We're unveiling the next generation of the Segment Anything collection of models, advancing image, and video understanding. Segment Anything Model 3 (SAM 3) introduces some of our most highly requested features like text and exemplar prompts — enabling detection, segmentation, and tracking of any visual concept across images and video. We also want to make it easier for more people to use our models. As part of this release, we're debuting the Segment Anything Playground, the simplest way for anyone to experiment with applying our state-of-the-art models to media modification.",
         "url": "https://ai.meta.com/sam3/",
+        "language": "en"
+    },
+    {
+        "title": "'Tiny' AI model beats massive LLMs at logic test",
+        "source": "Nature",
+        "date": "2025-11-13",
+        "summary": "A small-scale artificial-intelligence model that learns from only a limited pool of data is exciting researchers for its potential to boost reasoning abilities. The model, known as Tiny Recursive Model (TRM), outperformed some of the world's best large language models (LLMs) at the Abstract and Reasoning Corpus for Artificial General Intelligence (ARC-AGI), a test involving visual logic puzzles that is designed to flummox most machines.",
+        "url": "https://www.nature.com/articles/d41586-025-03379-9",
         "language": "en"
     },
     {
@@ -22,6 +38,14 @@
         "summary": "apresentamos o Gemini 3, nosso modelo mais inteligente, que combina todas as funcionalidades do Gemini para que você possa transformar qualquer ideia em realidade. É uma tecnologia de ponta em raciocínio, desenvolvida para captar profundidade e nuances — seja percebendo as pistas sutis em uma ideia criativa ou desvendando as camadas de um problema difícil. O Gemini 3 também é muito melhor em entender o contexto e a intenção por trás da sua solicitação, para que você obtenha o que precisa com menos perguntas. É incrível pensar que, em apenas dois anos, a IA evoluiu da simples leitura de textos e imagens para a leitura do ambiente.",
         "url": "https://blog.google/intl/pt-br/novidades/tecnologia/gemini-3/#note-from-ceo",
         "language": "pt"
+    },
+    {
+        "title": "The rise of large language models",
+        "source": "Nature",
+        "date": "2025-09-24",
+        "summary": "Large language models (LLMs) are increasingly shaping the way we live and work. In everyday life, they assist with writing, translation, learning, communication, and so on — by making information more accessible and tools more efficient. LLMs also profoundly influence how knowledge is created and shared. In scientific research, for example, LLMs are transforming how research is conducted — from literature synthesis and hypothesis generation to experimental design and scientific code development. Their impact spans a wide range of disciplines, including life sciences and medicine, chemistry and materials science, physics, engineering, urban and Earth sciences, psychology, linguistics, and the humanities. As these models continue to evolve, they are not only enhancing existing methods but also unlocking new possibilities for scientific exploration. In this issue, we present a Focus that brings together expert perspectives from various fields to explore the opportunities, risks, and challenges of advancing and applying LLMs in scientific research.",
+        "url": "https://www.nature.com/articles/s43588-025-00890-x",
+        "language": "en"
     },
     {
         "title": "T5Gemma: A new collection of encoder-decoder Gemma models",
