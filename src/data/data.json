@@ -40,6 +40,14 @@
         "language": "pt"
     },
     {
+        "title": "AI language models killed the Turing test: do we even need a replacement?",
+        "source": "Nature",
+        "date": "2025-10-20",
+        "summary": "Today's best artificial intelligence (AI) models sail through the Turing test, a famous thought experiment that asks whether a computer can pass as a human by interacting through text. Some see an upgraded test as a necessary benchmark for progress towards artificial general intelligence (AGI) — an ambiguous term used by many technology firms to mean an AI system with the resourcefulness to match any human cognitive ability. But at an event at London's Royal Society on 2 October, several researchers said that the Turing test should be scrapped altogether, and that developers should instead focus on evaluating AI safety and building specific capabilities that could be of benefit to the public.",
+        "url": "https://www.nature.com/articles/d41586-025-03386-w",
+        "language": "en"
+    },
+    {
         "title": "The rise of large language models",
         "source": "Nature",
         "date": "2025-09-24",
@@ -222,5 +230,13 @@
         "summary": "Desde que lançamos o Bard no ano passado, pessoas de todo o mundo têm usado a ferramenta para colaborar com a IA de uma maneira completamente nova — para se preparar para entrevistas de emprego, depurar códigos, debater novas ideias de negócios ou, como anunciamos na semana passada, criar imagens criativas. Nossa missão com o Bard sempre foi fornecer um acesso direto aos nossos modelos de IA, e Gemini representa nossa família de modelos mais potentes. Para refletir isso, Bard agora será conhecido simplesmente como Gemini.",
         "url": "https://blog.google/intl/pt-br/gemini/bard-se-torna-gemini-experimente-o-ultra-10-e-um-novo-aplicativo-movel-hoje/",
         "language": "pt"
+    },
+    {
+        "title": "ChatGPT broke the Turing test — the race is on for new ways to assess AI",
+        "source": "https://www.nature.com/articles/d41586-023-02361-7",
+        "date": "2023-07-25",
+        "summary": "The world's best artificial intelligence (AI) systems can pass tough exams, write convincingly human essays and chat so fluently that many find their output indistinguishable from people's. What can't they do? Solve simple visual logic puzzles. In a test consisting of a series of brightly coloured blocks arranged on a screen, most people can spot the connecting patterns. But GPT-4, the most advanced version of the AI system behind the chatbot ChatGPT and the search engine Bing, gets barely one-third of the puzzles right in one category of patterns and as little as 3% correct in another, according to a report by researchers this May1.",
+        "url": "https://www.nature.com/articles/d41586-023-02361-7",
+        "language": "en"
     }
 ]
