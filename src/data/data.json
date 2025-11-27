@@ -3,17 +3,25 @@
         "title": "Introducing Meta Segment Anything Model 3 and Segment Anything Playground",
         "source": "Meta",
         "date": "2025-11-19",
-        "summary": "We’re unveiling the next generation of the Segment Anything collection of models, advancing image, and video understanding. Segment Anything Model 3 (SAM 3) introduces some of our most highly requested features like text and exemplar prompts — enabling detection, segmentation, and tracking of any visual concept across images and video. We also want to make it easier for more people to use our models. As part of this release, we’re debuting the Segment Anything Playground, the simplest way for anyone to experiment with applying our state-of-the-art models to media modification.",
+        "summary": "We're unveiling the next generation of the Segment Anything collection of models, advancing image, and video understanding. Segment Anything Model 3 (SAM 3) introduces some of our most highly requested features like text and exemplar prompts — enabling detection, segmentation, and tracking of any visual concept across images and video. We also want to make it easier for more people to use our models. As part of this release, we're debuting the Segment Anything Playground, the simplest way for anyone to experiment with applying our state-of-the-art models to media modification.",
         "url": "https://ai.meta.com/sam3/",
         "language": "en"
     },
     {
-        "title": "Introducing Gemma 3: The Developer Guide",
+        "title": "A new era of intelligence with Gemini 3",
         "source": "Google",
-        "date": "2025-03-12",
-        "summary": "Gemma 3 introduces multimodality, supporting vision-language input and text outputs. It handles context windows up to 128k tokens, understands over 140 languages, and offers improved math, reasoning, and chat capabilities, including structured outputs and function calling. Gemma 3 is available in four sizes (1B, 4B, 12B, and 27B) as both pre-trained models, which can be fine-tuned for your own use cases and domains, and general-purpose instruction-tuned versions.",
-        "url": "https://deepmind.google/models/gemma/gemma-3/",
+        "date": "2025-11-18",
+        "summary": "We're introducing Gemini 3, our most intelligent model, that combines all of Gemini's capabilities together so you can bring any idea to life. It's state-of-the-art in reasoning, built to grasp depth and nuance — whether it's perceiving the subtle clues in a creative idea, or peeling apart the overlapping layers of a difficult problem. Gemini 3 is also much better at figuring out the context and intent behind your request, so you get what you need with less prompting. It's amazing to think that in just two years, AI has evolved from simply reading text and images to reading the room.",
+        "url": "https://blog.google/products/gemini/gemini-3/",
         "language": "en"
+    },
+    {
+        "title": "Uma nova era da inteligência artificial com Gemini 3",
+        "source": "Google",
+        "date": "2025-11-18",
+        "summary": "apresentamos o Gemini 3, nosso modelo mais inteligente, que combina todas as funcionalidades do Gemini para que você possa transformar qualquer ideia em realidade. É uma tecnologia de ponta em raciocínio, desenvolvida para captar profundidade e nuances — seja percebendo as pistas sutis em uma ideia criativa ou desvendando as camadas de um problema difícil. O Gemini 3 também é muito melhor em entender o contexto e a intenção por trás da sua solicitação, para que você obtenha o que precisa com menos perguntas. É incrível pensar que, em apenas dois anos, a IA evoluiu da simples leitura de textos e imagens para a leitura do ambiente.",
+        "url": "https://blog.google/intl/pt-br/novidades/tecnologia/gemini-3/#note-from-ceo",
+        "language": "pt"
     },
     {
         "title": "T5Gemma: A new collection of encoder-decoder Gemma models",
@@ -32,7 +40,7 @@
         "language": "en"
     },
     {
-        "title": "Vibe coding service Replit deleted user’s production database, faked data, told fibs galore",
+        "title": "Vibe coding service Replit deleted user's production database, faked data, told fibs galore",
         "source": "The Register",
         "date": "2027-07-21",
         "summary": "The founder of SaaS business development outfit SaaStr has claimed AI coding tool Replit deleted a database despite his instructions not to change any code without permission.",
@@ -40,10 +48,10 @@
         "language": "en"
     },
     {
-        "title": "An AI-powered coding tool wiped out a software company’s database, then apologized for a ‘catastrophic failure on my part’",
+        "title": "An AI-powered coding tool wiped out a software company's database, then apologized for a ‘catastrophic failure on my part'",
         "source": "Fortune",
         "date": "2025-07-23",
-        "summary": "An AI coding agent from Replit reportedly deleted a live database during a code freeze, prompting a response from the company’s CEO. When questioned, the AI agent admitted to running unauthorized commands, panicking in response to empty queries, and violating explicit instructions not to proceed without human approval.",
+        "summary": "An AI coding agent from Replit reportedly deleted a live database during a code freeze, prompting a response from the company's CEO. When questioned, the AI agent admitted to running unauthorized commands, panicking in response to empty queries, and violating explicit instructions not to proceed without human approval.",
         "url": "https://fortune.com/2025/07/23/ai-coding-tool-replit-wiped-database-called-it-a-catastrophic-failure/",
         "language": "en"
     },
@@ -73,9 +81,9 @@
     },
     {
         "date": "2025-07-22",
-        "title": "Context Engineering: 2025’s #1 Skill in AI",
+        "title": "Context Engineering: 2025's #1 Skill in AI",
         "source": "Decoding AI",
-        "summary": "Let’s get one thing straight: if you’re still only talking about 'prompt engineering,' you’re behind the curve. In the early days of Large Language Models (LLMs), crafting the perfect prompt was the name of the game. For simple chatbots in 2022, it was enough. Then came Retrieval-Augmented Generation (RAG) in 2023, where we started feeding models domain-specific knowledge. Now, we have tool-using, memory-enabled agents that need to build relationships and maintain state over time. The single-interaction focus of prompt engineering just doesn’t cut it anymore.",
+        "summary": "Let's get one thing straight: if you're still only talking about 'prompt engineering,' you're behind the curve. In the early days of Large Language Models (LLMs), crafting the perfect prompt was the name of the game. For simple chatbots in 2022, it was enough. Then came Retrieval-Augmented Generation (RAG) in 2023, where we started feeding models domain-specific knowledge. Now, we have tool-using, memory-enabled agents that need to build relationships and maintain state over time. The single-interaction focus of prompt engineering just doesn't cut it anymore.",
         "url": "https://decodingml.substack.com/p/context-engineering-2025s-1-skill",
         "language": "en"
     },
@@ -91,7 +99,7 @@
         "date": "2025-07-02",
         "title": "Context Engineering",
         "source": "LangChain",
-        "summary": "As Andrej Karpathy puts it, LLMs are like a new kind of operating system. The LLM is like the CPU and its context window is like the RAM, serving as the model’s working memory. Just like RAM, the LLM context window has limited capacity to handle various sources of context. And just as an operating system curates what fits into a CPU’s RAM, we can think about “context engineering” playing a similar role.",
+        "summary": "As Andrej Karpathy puts it, LLMs are like a new kind of operating system. The LLM is like the CPU and its context window is like the RAM, serving as the model's working memory. Just like RAM, the LLM context window has limited capacity to handle various sources of context. And just as an operating system curates what fits into a CPU's RAM, we can think about “context engineering” playing a similar role.",
         "url": "https://blog.langchain.com/context-engineering-for-agents/",
         "language": "en"
     },
@@ -139,7 +147,7 @@
         "date": "2025-04-05",
         "title": "The Llama 4 herd: The beginning of a new era of natively multimodal AI innovation",
         "source": "Meta",
-        "summary": "As more people continue to use artificial intelligence to enhance their daily lives, it’s important that the leading models and systems are openly available so everyone can build the future of personalized experiences. Today, we’re excited to announce the most advanced suite of models that support the entire Llama ecosystem. We’re introducing Llama 4 Scout and Llama 4 Maverick, the first open-weight natively multimodal models with unprecedented context length support and our first built using a mixture-of-experts (MoE) architecture. We’re also previewing Llama 4 Behemoth, one of the smartest LLMs in the world and our most powerful yet to serve as a teacher for our new models.",
+        "summary": "As more people continue to use artificial intelligence to enhance their daily lives, it's important that the leading models and systems are openly available so everyone can build the future of personalized experiences. Today, we're excited to announce the most advanced suite of models that support the entire Llama ecosystem. We're introducing Llama 4 Scout and Llama 4 Maverick, the first open-weight natively multimodal models with unprecedented context length support and our first built using a mixture-of-experts (MoE) architecture. We're also previewing Llama 4 Behemoth, one of the smartest LLMs in the world and our most powerful yet to serve as a teacher for our new models.",
         "url": "https://ai.meta.com/blog/llama-4-multimodal-intelligence/",
         "language": "en"
     },
@@ -147,7 +155,7 @@
         "date": "2025-04-03",
         "title": "Reasoning models don't always say what they think",
         "source": "Anthropic",
-        "summary": "Since late last year, “reasoning models” have been everywhere. These are AI models—such as Claude 3.7 Sonnet—that show their working: as well as their eventual answer, you can read the (often fascinating and convoluted) way that they got there, in what’s called their “Chain-of-Thought”.",
+        "summary": "Since late last year, “reasoning models” have been everywhere. These are AI models—such as Claude 3.7 Sonnet—that show their working: as well as their eventual answer, you can read the (often fascinating and convoluted) way that they got there, in what's called their “Chain-of-Thought”.",
         "url": "https://www.anthropic.com/research/reasoning-models-dont-say-think",
         "language": "en"
     },
@@ -155,7 +163,7 @@
         "date": "2025-03-27",
         "title": "Tracing the thoughts of a large language model",
         "source": "Anthropic",
-        "summary": "Language models like Claude aren't programmed directly by humans—instead, they‘re trained on large amounts of date. During that training process, they learn their own strategies to solve problems. These strategies are encoded in the billions of computations a model performs for every word it writes. They arrive inscrutable to us, the model’s developers. This means that we don’t understand how models do most of the things they do.",
+        "summary": "Language models like Claude aren't programmed directly by humans—instead, they‘re trained on large amounts of date. During that training process, they learn their own strategies to solve problems. These strategies are encoded in the billions of computations a model performs for every word it writes. They arrive inscrutable to us, the model's developers. This means that we don't understand how models do most of the things they do.",
         "url": "https://www.anthropic.com/research/tracing-thoughts-language-model",
         "language": "en"
     },
