@@ -8,6 +8,30 @@
         "language": ""
     },
     {
+        "title": "After leaving OpenAI, Ilya Sutskever had a 1.5-hour conversation: AGI can be achieved in as little as 5 years",
+        "source": "36kr Europe",
+        "date": "2025-11-27",
+        "summary": "Sutskever predicts that human-level AGI will be achieved within 5 to 20 years. The 'scaling' approach of simply piling up data and computing power has reached its peak. There are 'jagged' gaps in model capabilities: models perform excellently in evaluations but often make elementary mistakes in applications. Value functions, similar to human emotions, can guide AI to learn more efficiently and robustly. Not rushing into commercialization: Focus on research aiming for 'direct access to superintelligence' and also consider gradual deployment. Letting AIs compete with each other and think differently is one way to break the 'model homogenization' problem. Good research should be concise, elegant, and correctly draw inspiration from brain mechanisms.",
+        "url": "https://eu.36kr.com/en/p/3570122305223553",
+        "language": "en"
+    },
+    {
+        "title": "OpenAI cofounder says scaling compute is not enough to advance AI: 'It's back to the age of research again'",
+        "source": "Business Insider",
+        "date": "2025-11-25",
+        "summary": "OpenAI cofounder Ilya Sutskever believes the tides of the AI industry will have to shift back to the research phase.",
+        "url": "https://www.businessinsider.com/openai-cofounder-ilya-sutskever-scaling-ai-age-of-research-dwarkesh-2025-11",
+        "language": "en"
+    },
+    {
+        "title": "Ilya Sutskever – We're moving from the age of scaling to the age of research",
+        "source": "You Tube",
+        "date": "2025-11-25",
+        "summary": "Ilya & I discuss SSI’s strategy, the problems with pre-training, how to improve the generalization of AI models, and how to ensure AGI goes well.",
+        "url": "https://www.youtube.com/watch?v=aR20FWCCjAs",
+        "language": "en"
+    },
+    {
         "title": "Introducing Meta Segment Anything Model 3 and Segment Anything Playground",
         "source": "Meta",
         "date": "2025-11-19",
